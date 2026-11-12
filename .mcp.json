@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "growfast": {
+      "type": "http",
+      "url": "https://growfast.sh/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${GROWFAST_API_KEY}"
+      }
+    }
+  }
+}

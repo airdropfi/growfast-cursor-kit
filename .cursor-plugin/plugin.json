@@ -1,0 +1,20 @@
+{
+  "name": "growfast",
+  "description": "Scan a product site, draft emails to named decision-makers and set up Reddit listening on your GrowFast account. Use with an API key; confirm before anything that sends mail.",
+  "version": "1.0.0",
+  "author": {
+    "name": "GrowFast",
+    "email": "support@growfast.sh"
+  },
+  "homepage": "https://growfast.sh/docs",
+  "repository": "https://github.com/airdropfi/growfast-cursor-kit",
+  "license": "MIT",
+  "keywords": [
+    "growfast",
+    "lead generation",
+    "cold email",
+    "reddit",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
