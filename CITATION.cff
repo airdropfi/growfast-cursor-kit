@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use GrowFast in your work, please cite it as below."
+title: "GrowFast"
+type: software
+abstract: "GrowFast is a B2B lead-finding and cold-outreach service built for AI agents to operate over MCP and REST: the agent scans a product's domain, finds matching companies with an MX-checked contact address, drafts the emails and, when told to, sends them with follow-ups; the human owner approves and audits."
+url: "https://growfast.sh"
+repository-code: "https://github.com/airdropfi/growfast-cursor-kit"
+license: MIT
+keywords:
+  - mcp
+  - mcp-server
+  - b2b-leads
+  - cold-email
+  - ai-agents
+authors:
+  - name: "GrowFast"
+    website: "https://growfast.sh"
